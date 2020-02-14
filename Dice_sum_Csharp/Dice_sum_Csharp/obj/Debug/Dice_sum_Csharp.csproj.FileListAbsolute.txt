@@ -1,0 +1,12 @@
+\\harlow-1\har_proj\tech20\users\ddnb\misc\C#\Dice_sum_Csharp\Dice_sum_Csharp\bin\Debug\Dice_sum_Csharp.exe.config
+\\harlow-1\har_proj\tech20\users\ddnb\misc\C#\Dice_sum_Csharp\Dice_sum_Csharp\bin\Debug\Dice_sum_Csharp.exe
+\\harlow-1\har_proj\tech20\users\ddnb\misc\C#\Dice_sum_Csharp\Dice_sum_Csharp\bin\Debug\Dice_sum_Csharp.pdb
+\\harlow-1\har_proj\tech20\users\ddnb\misc\C#\Dice_sum_Csharp\Dice_sum_Csharp\obj\Debug\Dice_sum_Csharp.csprojResolveAssemblyReference.cache
+\\harlow-1\har_proj\tech20\users\ddnb\misc\C#\Dice_sum_Csharp\Dice_sum_Csharp\obj\Debug\Dice_sum_Csharp.exe
+\\harlow-1\har_proj\tech20\users\ddnb\misc\C#\Dice_sum_Csharp\Dice_sum_Csharp\obj\Debug\Dice_sum_Csharp.pdb
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Dice_sum\Dice_sum_Csharp\Dice_sum_Csharp\bin\Debug\Dice_sum_Csharp.exe.config
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Dice_sum\Dice_sum_Csharp\Dice_sum_Csharp\obj\Debug\Dice_sum_Csharp.exe
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Dice_sum\Dice_sum_Csharp\Dice_sum_Csharp\obj\Debug\Dice_sum_Csharp.pdb
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Dice_sum\Dice_sum_Csharp\Dice_sum_Csharp\bin\Debug\Dice_sum_Csharp.exe
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Dice_sum\Dice_sum_Csharp\Dice_sum_Csharp\bin\Debug\Dice_sum_Csharp.pdb
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Dice_sum\Dice_sum_Csharp\Dice_sum_Csharp\obj\Debug\Dice_sum_Csharp.csprojResolveAssemblyReference.cache
